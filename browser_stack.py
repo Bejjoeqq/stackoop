@@ -184,8 +184,6 @@ if __name__ == '__main__':
 	rt = Tampil()
 	rt.resizable(width=False, height=True)
 	rt.mainloop()
-	# a = Url("https://dinus.ac.id/")
-	# a.title()
 else:
 	print("Run the main program.")
 		
